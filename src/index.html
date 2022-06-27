@@ -10,9 +10,9 @@
 </head>
 
 <body>
-    <div data-ng-controller="mainCtrl">
-        {{ greeting }}
-    </div>
+    <a ui-sref="main" ui-sref-active="active">Main</a>
+    <a ui-sref="about" ui-sref-active="active">About</a>
+    <ui-view></ui-view>
     <script type="module" src="./main.ts"></script>
 </body>
 
