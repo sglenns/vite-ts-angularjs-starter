@@ -1,5 +1,5 @@
 # vite-ts-angularjs-starter
-forked from [supertorpe](https://github.com/supertorpe)'s [vite-ts-angularjs-starter](https://github.com/supertorpe/vite-ts-angularjs-starter)
+forked from [supertorpe](https://github.com/supertorpe)'s [vite-ts-angularjs-starter](https://github.com/sglenns/vite-ts-angularjs-starter)
 
 This repo contains a typescript angularjs project template using vite.
 
@@ -8,7 +8,7 @@ This repo contains a typescript angularjs project template using vite.
 Clone this repository and install its dependencies:
 
 ```bash
-git clone https://github.com/supertorpe/vite-ts-angularjs-starter.git
+git clone git@github.com:sglenns/vite-ts-angularjs-starter.git
 cd vite-ts-angularjs-starter
 npm install
 ```
